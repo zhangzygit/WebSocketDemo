@@ -13,5 +13,7 @@ public class DemoReset {
         System.out.println("demo");
         System.out.println("1/0");
         System.out.println(2/0);
+        System.out.println(3/0);
+
     }
 }
