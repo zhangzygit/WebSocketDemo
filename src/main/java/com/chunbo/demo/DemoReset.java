@@ -11,6 +11,5 @@ public class DemoReset {
 
     public static void main(String[] args) {
         System.out.println("demo");
-        System.out.println("1/0");
     }
 }
